@@ -1,2 +1,1 @@
 # PostgreSQL_LABS
-labs
